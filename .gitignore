@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 venv/
 .env
@@ -19,3 +20,17 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+=======
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+backend/venv/
+>>>>>>> a318e302b52cde881f7a9670b31049e1d1a5172b
