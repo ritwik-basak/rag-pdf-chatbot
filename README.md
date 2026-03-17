@@ -1,3 +1,11 @@
+## 🚀 Demo Preview
+
+### Upload & Interface
+![Homepage](assets/homepage.png)
+
+### RAG Response with Sources
+![Chat Response](assets/chat_response.png)
+
 # RAG PDF Chatbot — Full Stack
 
 Chat with your PDFs via terminal OR a premium web interface.
