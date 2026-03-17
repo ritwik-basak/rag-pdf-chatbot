@@ -1,7 +1,7 @@
 ## 🚀 Demo Preview
 
 ### Upload & Interface
-![Homepage](assets/homepage.png)
+![Homepage](assets/Homepage.png)
 
 ### RAG Response with Sources
 ![Chat Response](assets/chat_response.png)
